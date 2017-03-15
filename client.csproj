@@ -3,9 +3,9 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp1.1</TargetFramework>
     <PreserveCompilationContext>true</PreserveCompilationContext>
-    <AssemblyName>spd_cli</AssemblyName>
+    <AssemblyName>client</AssemblyName>
     <OutputType>Exe</OutputType>
-    <PackageId>spd_cli</PackageId>
+    <PackageId>client</PackageId>
     <RuntimeFrameworkVersion>1.1.0</RuntimeFrameworkVersion>
     <PackageTargetFallback>$(PackageTargetFallback);dotnet5.6;portable-net45+win8</PackageTargetFallback>
   </PropertyGroup>
